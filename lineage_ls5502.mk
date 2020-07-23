@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-$(call inherit-product, device/lenovo/sisleyr/full_sisleyr.mk)
+$(call inherit-product, device/lyf/ls5502/full_ls5502.mk)
 
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
@@ -21,19 +21,19 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Must define platform variant before including any common things
 TARGET_BOARD_PLATFORM_VARIANT := msm8916
 
-PRODUCT_NAME := lineage_sisleyr
-BOARD_VENDOR := lenovo
-PRODUCT_DEVICE := sisleyr
+PRODUCT_NAME := lineage_ls5502
+BOARD_VENDOR := LYF
+PRODUCT_DEVICE := ls5502
 
-PRODUCT_GMS_CLIENTID_BASE := android-lenovo
+PRODUCT_GMS_CLIENTID_BASE := android-ckt
 
-PRODUCT_MANUFACTURER := Lenovo
-PRODUCT_MODEL := Lenovo S90
+PRODUCT_MANUFACTURER := LYF
+PRODUCT_MODEL := Wind 3
 
-PRODUCT_BRAND := Lenovo
-TARGET_VENDOR := lenovo
-TARGET_VENDOR_PRODUCT_NAME := S90
-TARGET_VENDOR_DEVICE_NAME := sisleyr
+PRODUCT_BRAND := LYF
+TARGET_VENDOR := LYF
+TARGET_VENDOR_PRODUCT_NAME := Wind 3
+TARGET_VENDOR_DEVICE_NAME := ls5502
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="sisleyr-user 5.0.2 LRX22G S90-A_S239_151126_ROW release-keys"

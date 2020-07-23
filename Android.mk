@@ -15,6 +15,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),sisleyr)
+ifeq ($(TARGET_DEVICE),ls5502)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 endif

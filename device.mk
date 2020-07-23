@@ -152,4 +152,4 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/wifi/WCNSS_qcom_wlan_nv.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin
 
 # Call the proprietary setup
-$(call inherit-product, vendor/lenovo/sisleyr/sisleyr-vendor.mk)
+$(call inherit-product, vendor/lyf/ls5502/ls5502-vendor.mk)

@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_sisleyr.mk
+    $(LOCAL_DIR)/lineage_ls5502.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_sisleyr-user \
-    lineage_sisleyr-userdebug \
-    lineage_sisleyr-eng
+    lineage_ls5502-user \
+    lineage_ls5502-userdebug \
+    lineage_ls5502-eng

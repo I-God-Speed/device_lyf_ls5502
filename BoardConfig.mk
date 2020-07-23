@@ -16,9 +16,9 @@
 #
 
 # Inherit from msm8916-common
-include device/lenovo/msm8916-common/BoardConfigCommon.mk
+include device/lyf/msm8916-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/lenovo/sisleyr
+DEVICE_PATH := device/lyf/ls5502
 
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth
@@ -81,4 +81,4 @@ include $(DEVICE_PATH)/twrp.mk
 endif
 
 # Inherit from proprietary files
--include vendor/lenovo/sisleyr/BoardConfigVendor.mk
+-include vendor/lyf/ls5502/BoardConfigVendor.mk
