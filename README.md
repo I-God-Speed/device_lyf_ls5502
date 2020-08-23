@@ -1,4 +1,4 @@
-# Device configuration for Lenovo S90
+# Device configuration for LYF Wind 3
 
 ## Spec Sheet
 
@@ -9,7 +9,7 @@
 | GPU                     | Adreno 306                        |
 | Memory                  | 2 GB                              |
 | Shipped Android Version | 5.0.2                             |
-| Storage                 | 32 GB                             |
+| Storage                 | 16 GB                             |
 | Battery                 | 2300 mAh (removable)              |
 | Dimensions              | 72 x 143,3 x 7,7 mm               |
 | Display                 | 720 x 1280 pixels, 5.0" Super AMOLED   |
@@ -18,7 +18,7 @@
 
 ## Device Picture
 
-![Lenovo S90-A](https://www.ixbt.com/mobile/images/lenovo-s90/foto/lenovos90-128.jpg "Lenovo S90")
+![LYF Wind 3](https://n1.sdlcdn.com/imgs/d/4/1/679362035197_1-fa06b.jpg "LYF Wind 3")
 
 ## Copyright
 
