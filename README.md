@@ -8,13 +8,13 @@
 | Chipset                 | Qualcomm MSM8916 Snapdragon 410   |
 | GPU                     | Adreno 306                        |
 | Memory                  | 2 GB                              |
-| Shipped Android Version | 5.0.2                             |
+| Shipped Android Version | 5.1.1                             |
 | Storage                 | 16 GB                             |
-| Battery                 | 2300 mAh (removable)              |
+| Battery                 | 2900 mAh (non-removable)          |
 | Dimensions              | 72 x 143,3 x 7,7 mm               |
-| Display                 | 720 x 1280 pixels, 5.0" Super AMOLED   |
-| Rear Camera             | 13 MP, LED flash                  |
-| Front Camera            | 8 MP, LED flash                    |
+| Display                 | 720 x 1280 pixels, 5.5"           |
+| Rear Camera             | 8 MP, LED flash                   |
+| Front Camera            | 2 MP                              |
 
 ## Device Picture
 
